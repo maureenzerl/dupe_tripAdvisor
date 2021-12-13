@@ -1,0 +1,7 @@
+{
+  "name": "TripAdvisor_maureen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

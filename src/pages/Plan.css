@@ -1,0 +1,23 @@
+/* Custom Icon Segment MD */
+custom-icon {
+    --indicator-color: lightgray;
+  }
+
+  .segment-b {
+    --background-hover: rgba(59, 89, 153, 0.04);
+    --color-activated: #222428;
+    --color-checked: #222428;
+  }
+
+ .searchbar{
+    --border-radius: 5px;
+  }
+
+  ion-button{
+    --border-radius : 35px;
+  }
+
+  .save{
+    text-align: center;
+    align-items: center;
+} 

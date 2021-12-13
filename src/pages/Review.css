@@ -1,0 +1,8 @@
+.review{
+    position: absolute;
+    width: 50%;
+    top: 100px;
+    left: 80px;
+    --background: black!important;
+    color: white;
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "TripAdvisor_maureen",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

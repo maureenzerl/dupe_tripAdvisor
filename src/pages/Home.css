@@ -1,0 +1,132 @@
+
+ion-button{
+    color: black;
+    font-weight: bold;
+}
+
+.foto2{
+    background: url('../photos/foto2.jpg') ;
+    background-size: cover;
+    height: 420px;
+    width: 420px;
+    border-radius: 0%;
+    margin-left: 0;
+}
+
+.foto2 ion-card-title{
+    text-align: left;
+    color: white;
+    margin-top: 200px;
+    margin-left: 5px;
+}
+.foto2 ion-card-subtitle{
+    text-align: left;
+    color: white;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.foto2 ion-button{
+    margin-top: 3%;
+}
+
+.disc{
+    border-radius: 0%;
+    background-color:#006408;
+}
+.disc ion-card-title{
+    text-align: center;
+    color: white;
+}
+.disc ion-button{
+    margin-left: 27%;
+    margin-top: 5%;
+    border-color: white;
+    border-style: solid;
+    border-radius: 35px;
+    color: white;
+}
+
+.kartu1{
+    background: url('../photos/villa1.jpg') ;
+    background-size: cover;
+    height: 300px !important;
+    width: 300px !important;
+    border-radius: 0%;
+}
+
+.kartu1 ion-card-title{
+    margin-top: 260px;
+    margin-right: 190px;
+    font-size: 25px;
+    color: white;
+}
+
+.kartu2{
+    background: url('../photos/villa2.jpg') ;
+    background-size: cover;
+    height: 300px !important;
+    width: 300px !important;
+    border-radius: 0%;
+}
+
+.kartu2 ion-card-title{
+    margin-top: 260px;
+    margin-right: 170px;
+    font-size: 25px;
+    color: white;
+}
+
+.kartu3{
+    background: url('../photos/villa3.jpg') ;
+    background-size: cover;
+    height: 300px !important;
+    width: 300px !important;
+    border-radius: 0%;
+}
+
+.kartu3 ion-card-title{
+    margin-top: 260px;
+    margin-right: 120px;
+    font-size: 25px;
+    color: white;
+}
+
+.kartu4{
+    background: url('../photos/villa4.jpg') ;
+    background-size: cover;
+    height: 300px !important;
+    width: 300px !important;
+    border-radius: 0%;
+}
+
+.kartu4 ion-card-title{
+    margin-top: 260px;
+    margin-right: 100px;
+    font-size: 25px;
+    color: white;
+}
+
+.foto3{
+    background: url('../photos/foto3.jpg') ;
+    background-size: cover;
+    height: 420px;
+    width: 420px;
+    border-radius: 0%;
+    margin-left: 0;
+}
+
+.foto3 ion-card-title{
+    text-align: left;
+    color: white;
+    margin-top: 200px;
+    margin-left: 5px;
+}
+.foto3 ion-card-subtitle{
+    text-align: left;
+    color: white;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.foto3 ion-button{
+    margin-top: 3%;
+}

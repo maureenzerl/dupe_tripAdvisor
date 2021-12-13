@@ -1,0 +1,68 @@
+ion-item{
+    background-color: #f4f5f8;
+}
+
+.kanan{
+    float: right;
+}
+
+.nyc{
+    background: url('../photos/nyc.jpg') ;
+    background-size: cover;
+    height: 150px !important;
+    width: 150px !important;
+    border-radius: 0%;
+}
+.nyc ion-card-title{
+    margin-top: 120px;
+    margin-left: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+.sg{
+    background: url('../photos/sg.jpg') ;
+    background-size: cover;
+    height: 150px !important;
+    width: 150px !important;
+    border-radius: 0%;
+}
+.sg ion-card-title{
+    margin-top: 120px;
+    margin-left: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+.paris{
+    background: url('../photos/paris.jpg') ;
+    background-size: cover;
+    height: 150px !important;
+    width: 150px !important;
+    border-radius: 0%;
+}
+.paris ion-card-title{
+    margin-top: 120px;
+    margin-left: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+.rome{
+    background: url('../photos/rome.jfif') ;
+    background-size: cover;
+    height: 150px !important;
+    width: 150px !important;
+    border-radius: 0%;
+}
+.rome ion-card-title{
+    margin-top: 120px;
+    margin-left: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+ion-item{
+    background-image: none;
+    border-style: none;
+}
